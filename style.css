@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+}
+
+h1{
+    color: #4aaaa5;
+    height: 96px;
+    padding: 23px 10px 0px 10px;
+}
+
+.main {
+    background-color:#ffffff;
+    border: 2px solid #eeeeee;
+    padding: 20px;
+}
+
+
+
+.footer{
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    height: 80px;
+    border-top: #4aaaa5 solid 2px;
+    background-color: #777777;
+    color: #4aaaa5;
+    text-align: center;
+    padding-top: 20px;
+}
